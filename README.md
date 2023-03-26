@@ -3,10 +3,10 @@
 
 I hope you like it!
 
-#Orgianial
+# Orgianial
 https://github.com/ClearVision/ClearVision-v6
 
-#Vencord copy URL
+# Vencord copy URL
 
 ```Paste the link below.```
 
