@@ -23,7 +23,7 @@ I hope you like it!
 https://raw.githubusercontent.com/monkeyadece/Clearvision-Colored/main/Red%20vision%20%7C%20Light%20house.css
 
 # Showcase
-> **Light house**
+> **Light house (Red version)**
 
 <p align="center">
 <img src="/showcase/lighthouse_showcase.png">
