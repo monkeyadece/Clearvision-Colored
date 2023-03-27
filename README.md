@@ -1,4 +1,4 @@
-# Clear-vision-Red-version
+# Clearvision-Colored Version
 > **I did not make this theme. I just edited it so it would be red.**
 I hope you like it!
 
@@ -7,6 +7,10 @@ I hope you like it!
 
 # Original
 - [ClearVision v6](https://github.com/ClearVision/ClearVision-v6)
+
+# Colors available
+- **Red**
+- `MORE COMING SOON` 
 
 # Vencord copy URL
 
