@@ -10,6 +10,7 @@
 - `MORE COMING SOON` 
 # Themes available
 - **Light house**
+- **Planet**
 - `MORE COMING SOON`
 # Vencord copy URL
 **Vencord copy (Light house red)**
