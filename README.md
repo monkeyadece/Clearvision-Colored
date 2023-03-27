@@ -13,7 +13,7 @@ https://github.com/ClearVision/ClearVision-v6
 
 ```Paste the link below.```
 
-https://raw.githubusercontent.com/monkeyadece/Clear-vision---Red-version/main/Red%20vision%20%7C%20Light%20house.css
+https://raw.githubusercontent.com/monkeyadece/Clear-vision-Colored/main/Red%20vision%20%7C%20Light%20house.css
 
 # Showcase
 **Light house**
