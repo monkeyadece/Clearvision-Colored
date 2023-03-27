@@ -1,12 +1,11 @@
 # Clear-vision-Red-version
-**I did not make this theme. I just edited it so it would be red.**
-
+> **I did not make this theme. I just edited it so it would be red.**
 I hope you like it!
 
 # ⚠️WARNING⚠️
 > **BEFORE USING THIS DO KNOW YOU MIGHT GET BANNED.**
 
-# Orgianial
+# Original
 - [ClearVision v6](https://github.com/ClearVision/ClearVision-v6)
 
 # Vencord copy URL
