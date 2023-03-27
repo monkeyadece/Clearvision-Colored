@@ -1,7 +1,7 @@
 # Clearvision-Colored Version
 > **I did not make this theme. I just edited it to have differnt colors.**
 # ⚠️WARNING⚠️
-> **BEFORE USING THIS DO KNOW YOU MIGHT GET BANNED.**
+> **Do keep in mind you can get banned using this, use at it your own risk.**
 # Original
 - [ClearVision v6](https://github.com/ClearVision/ClearVision-v6)
 
