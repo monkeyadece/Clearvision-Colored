@@ -3,6 +3,9 @@
 
 I hope you like it!
 
+# ⚠️WARNING⚠️
+**BEFORE USING THIS DO KNOW YOU MIGHT GET BANNED.**
+
 # Orgianial
 https://github.com/ClearVision/ClearVision-v6
 
