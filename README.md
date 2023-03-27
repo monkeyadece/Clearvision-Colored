@@ -11,6 +11,9 @@ I hope you like it!
 # Colors available
 - **Red**
 - `MORE COMING SOON` 
+# Themes available
+- **Light house**
+- `MORE COMING SOON`
 
 # Vencord copy URL
 
