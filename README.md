@@ -14,11 +14,11 @@ I hope you like it!
 - **Light house**
 - `MORE COMING SOON`
 # Vencord copy URL
-> **Vencord copy (Light house red)**
+**Vencord copy (Light house red)**
 
     https://raw.githubusercontent.com/monkeyadece/Clearvision-Colored/main/Red%20vision%20%7C%20Light%20house.css
 # Showcase
-> **Light house (Red version)**
+**Light house (Red version)**
 
 <p align="center">
 <img src="/showcase/lighthouse_showcase.png">
