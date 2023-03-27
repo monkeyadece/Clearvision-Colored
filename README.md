@@ -1,5 +1,5 @@
 # Clearvision-Colored Version
-> **I did not make this theme. I just edited it so it would be red.**
+> **I did not make this theme. I just edited it to have differnt colors..**
 I hope you like it!
 
 # ⚠️WARNING⚠️
