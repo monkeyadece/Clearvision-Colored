@@ -18,7 +18,7 @@ I hope you like it!
 
 # Vencord copy URL
 
-> `Vencord copy (Light house red)`
+> **Vencord copy (Light house red)**
 
     https://raw.githubusercontent.com/monkeyadece/Clearvision-Colored/main/Red%20vision%20%7C%20Light%20house.css
 
