@@ -7,7 +7,7 @@ I hope you like it!
 **BEFORE USING THIS DO KNOW YOU MIGHT GET BANNED.**
 
 # Orgianial
-https://github.com/ClearVision/ClearVision-v6
+[ClearVision v6](https://github.com/ClearVision/ClearVision-v6)
 
 # Vencord copy URL
 
