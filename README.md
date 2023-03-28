@@ -1,7 +1,7 @@
 # Clearvision-Colored Version
 > **I did not make this theme. I just edited it to have differnt colors.**
 
-**Edited by: [Astaa#9515](https://discordapp.com/users/376883512671993857)**
+**Edited by: [Astaa#9515 / monkeyadece](https://discordapp.com/users/376883512671993857)**
 # ⚠️WARNING⚠️
 > **Do keep in mind you can get banned using this, use at it your own risk.**
 # Original
