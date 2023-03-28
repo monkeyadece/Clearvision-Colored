@@ -24,7 +24,7 @@
 **Light house (Red version)**
 
 <p align="center">
-<img src="/showcase/lighthouse_showcase (red).png">
+<img src="/showcase/lighthouse_showcase.png">
     
 **Planet (Red version)**
 
