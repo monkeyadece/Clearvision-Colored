@@ -9,6 +9,7 @@
 
 # Colors available
 - **Red**
+- **Plurple**
 - `MORE COMING SOON` 
 # Themes available
 - **Light house**
@@ -22,6 +23,11 @@
 
 
     https://raw.githubusercontent.com/monkeyadece/Clearvision-Colored/main/Red%20vision%20%7C%20Planet.css
+    
+**Raw copy (Light house plurple)**
+     
+     https://raw.githubusercontent.com/monkeyadece/Clearvision-Colored/main/Plurple%20vision%20%7C%20Light%20house.css
+     
 # Showcase
 **Light house (Red version)**
 
