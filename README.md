@@ -38,3 +38,8 @@
 
 <p align="center">
 <img src="/showcase/Planet_showcase (red).png">
+
+**Lighthouse (Plurple version)**
+
+<p align="center">
+<img src="/showcase/Lighthouse_showcase (plurple).png>
