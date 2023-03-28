@@ -42,4 +42,4 @@
 **Lighthouse (Plurple version)**
 
 <p align="center">
-<img src="/showcase/Lighthouse_showcase (plurple).png>
+<img src="/showcase/Lighthouse_showcase (plurple).png">
